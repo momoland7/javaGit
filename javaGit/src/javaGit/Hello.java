@@ -5,8 +5,8 @@ public class Hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
-		System.out.println("¾È³çÇÏ¼¼¿ä");
-		System.out.println("¾È³ç12");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš”11");
+		System.out.println("ì•ˆë…•11");
 
 	}
 
